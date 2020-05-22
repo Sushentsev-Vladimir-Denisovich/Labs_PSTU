@@ -1,0 +1,18 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (OpenGL.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+C:\Users\VlaDeS\Desktop\Творческие работы\Лабораторная работа №32. Коммивояжер\OpenGL\Main.cpp(19,35): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\VlaDeS\Desktop\Творческие работы\Лабораторная работа №32. Коммивояжер\OpenGL\Main.cpp(45,7): warning C4101: i: неиспользованная локальная переменная
+C:\Users\VlaDeS\Desktop\Творческие работы\Лабораторная работа №32. Коммивояжер\OpenGL\Main.cpp(44,7): warning C4101: j: неиспользованная локальная переменная
+C:\Users\VlaDeS\Desktop\Творческие работы\Лабораторная работа №32. Коммивояжер\OpenGL\Main.cpp(46,7): warning C4101: t: неиспользованная локальная переменная
+C:\Users\VlaDeS\Desktop\Творческие работы\Лабораторная работа №32. Коммивояжер\OpenGL\Graph.h(202,16): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\VlaDeS\Desktop\Творческие работы\Лабораторная работа №32. Коммивояжер\OpenGL\Graph.h(185): message : во время компиляции функции-члена класс шаблон "void Graph<int>::setCoord(int,int)"
+C:\Users\VlaDeS\Desktop\Творческие работы\Лабораторная работа №32. Коммивояжер\OpenGL\Graph.h(142): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<int>::setCoord(int,int)"
+C:\Users\VlaDeS\Desktop\Творческие работы\Лабораторная работа №32. Коммивояжер\OpenGL\Main.cpp(10): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<int>"
+C:\Users\VlaDeS\Desktop\Творческие работы\Лабораторная работа №32. Коммивояжер\OpenGL\Graph.h(203,16): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\VlaDeS\Desktop\Творческие работы\Лабораторная работа №32. Коммивояжер\OpenGL\Graph.h(64,7): warning C4101: M: неиспользованная локальная переменная
+C:\Users\VlaDeS\Desktop\Творческие работы\Лабораторная работа №32. Коммивояжер\OpenGL\Graph.h(63): message : во время компиляции функции-члена класс шаблон "void Graph<int>::Ocenivanie(int,int [][20])"
+C:\Users\VlaDeS\Desktop\Творческие работы\Лабораторная работа №32. Коммивояжер\OpenGL\Graph.h(427): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<int>::Ocenivanie(int,int [][20])"
+C:\Users\VlaDeS\Desktop\Творческие работы\Лабораторная работа №32. Коммивояжер\OpenGL\Graph.h(238,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\VlaDeS\Desktop\Творческие работы\Лабораторная работа №32. Коммивояжер\OpenGL\Graph.h(234): message : во время компиляции функции-члена класс шаблон "void Graph<int>::drawText(int,int,int)"
+C:\Users\VlaDeS\Desktop\Творческие работы\Лабораторная работа №32. Коммивояжер\OpenGL\Graph.h(268): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<int>::drawText(int,int,int)"
+  OpenGL.vcxproj -> C:\Users\VlaDeS\Desktop\Творческие работы\Лабораторная работа №32. Коммивояжер\Debug\Лаюораторная работа №32.exe
